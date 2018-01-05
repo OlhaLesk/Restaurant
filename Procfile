@@ -1,1 +1,2 @@
-web: python webserver.py
+web: python restaurant.py
+
